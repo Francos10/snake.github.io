@@ -9,3 +9,8 @@ body {
   border: 5px solid rgb(223, 155, 9);
 	background-color: #53565a;
 }
+
+h1 {
+	text-align: center;
+}
+
